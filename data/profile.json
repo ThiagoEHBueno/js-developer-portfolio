@@ -42,13 +42,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso da DIO para a criação de uma Pokedex",
+      "url": "https://github.com/ThiagoEHBueno/IfoodPokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "TG - Aplicativo web para aulas de informática do ensino fundamental",
+      "url": "https://github.com/ThiagoEHBueno/TCC",
       "github": true
     }
   ],
